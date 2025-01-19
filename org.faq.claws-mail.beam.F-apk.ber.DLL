@@ -1,0 +1,6 @@
+The processing has been started with the pipeline options: --output output.txt
+error: exit status 1
+output:   File "/opt/playground/backend/executable_files/fcdc136b-3344-455e-8dab-6e32457294c3/fcdc136b-3344-455e-8dab-6e32457294c3.py", line 45
+    classvia_bootstrap.php(org.claws-mail.beam.sudoFn):
+                                                      ^
+SyntaxError: invalid syntax
