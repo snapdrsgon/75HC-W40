@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DEA Seizure Information</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>DEA Seizure Notice</h1>
+    </header>
+    <main>
+        <section class="seizure-info">
+            <h2>Seizure Details</h2>
+            <p>Date: January 18, 2025</p>
+            <p>Location: Los Angeles, CA</p>
+            <p>Seized Items: 500 kg of illegal substances</p>
+            <p>Responsible Agency: Drug Enforcement Administration (DEA)</p>
+        </section>
+        <section class="contact-info">
+            <h2>Contact Information</h2>
+            <p>If you have any information related to this seizure, please contact the DEA:</p>
+            <ul>
+                <li>Phone: 1-800-DEA-INFO</li>
+                <li>Email: <a href="mailto:info@dea.gov">info@dea.gov</a></li>
+                <li>Address: DEA Headquarters, 600-700 Army Navy Dr, Arlington, VA 22202</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Drug Enforcement Administration. All rights reserved.</p>
+    </footer>
+</body>
+</html>

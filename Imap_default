@@ -1,0 +1,18 @@
+// Create a hash table using the Map class
+const hashTable = new Map();
+
+// Insert key-value pairs
+hashTable.set("name", "John");
+hashTable.set("age", 30);
+hashTable.set("occupation", "Developer");
+
+// Retrieve values by key
+console.log(hashTable.get("name")); // Output: John
+console.log(hashTable.get("age")); // Output: 30
+
+// Check for the existence of a key
+console.log(hashTable.has("occupation")); // Output: true
+
+// Delete a key-value pair
+hashTable.delete("occupation");
+console.log(hashTable.has("occupation")); // Output: false
